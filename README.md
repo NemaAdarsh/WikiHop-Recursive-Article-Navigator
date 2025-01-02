@@ -11,6 +11,9 @@ WikiHop is a Python-based script that allows you to navigate Wikipedia articles 
   - Identifies itself using a `User-Agent` header.
   - Includes delays between requests to avoid overwhelming Wikipedia servers.
 
+![image](https://github.com/user-attachments/assets/61228116-6bab-4fd2-9f3c-b7a148946178)
+
+
 ## Requirements
 
 - Python 3.6 or higher
